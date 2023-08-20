@@ -6,9 +6,9 @@
     <span>Elbia Simone Buglio</span>
 </h1>
 
-<p align="justify">I am a back-end developer from Uberlândia, MG, Brazil. Initially, I graduated in Financial Management and I am currently a student of Systems Analysis and Development. My journey began with the famous 'Hello World', marking my career transition and my first contact with Java. Currently, I am pursuing Front-End development in JavaScript, guided by experienced professionals from mesttra. 
+<p align="justify">I am a back-end developer from Uberlândia, MG, Brazil.  graduated in Financial Management and  a student of Systems Analysis and Development. My journey began with the famous 'Hello World', marking my career transition and my first contact with Java. Currently, I am pursuing Front-End development in JavaScript, guided by experienced professionals from mesttra. 
 <br>
-Passionate about arts and technology, some of my hobbies running, reading, and creating crochet accessories. 
+Passionate about arts and technology, some of my hobbies running, reading, and creating crochet accessories.
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://Elbiabuglio.github.io/)
 [![GitHub Page](https://img.shields.io/badge/Elbiabuglio.github.io-67136f?style=for-the-badge)](https://Elbiabuglio.github.io/)
