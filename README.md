@@ -28,7 +28,7 @@ Passionate about arts and technology, some of my hobbies running, reading, and c
 
 <h3 align="left">Skills</h3>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elbiabuglio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elbiabuglio&bg_color=000&border_color=30A3DC&title_color=FF00F6&text_color=FFF)
 
 <br>
 <details align="left">
