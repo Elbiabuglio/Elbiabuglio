@@ -40,7 +40,7 @@ Passionate about arts and technology, some of my hobbies running, reading, and c
  
   <div align="right">Made with 💜 by <a href="https://github.com/Elbiabuglio">EA</a>.</div>
 
-
+![Snake animation]github.com/Elbiabuglio)
 </details>
 
-![Snake animation]github.com/Elbiabuglio)
+
