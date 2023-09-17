@@ -39,8 +39,9 @@ Passionate about arts and technology, some of my hobbies running, reading, and c
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with 💜 by <a href="https://github.com/Elbiabuglio">EA</a>.</div>
+  
+![snake gif](https://github.com/Elbiabgulio/Elbiabuglio/blob/output/github-contribution-grid-snake.svg)
 
 
 </details>
 
-![snake gif](https://github.com/Elbiabgulio/Elbiabuglio/blob/output/github-contribution-grid-snake.svg)
