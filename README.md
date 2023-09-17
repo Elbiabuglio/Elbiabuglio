@@ -43,4 +43,4 @@ Passionate about arts and technology, some of my hobbies running, reading, and c
 
 </details>
 
-![Snake animation](https://github.com/Elbiabuglio/Elbiabuglio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]github.com/Elbiabuglio)
