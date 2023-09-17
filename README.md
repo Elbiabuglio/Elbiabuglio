@@ -41,3 +41,4 @@ Passionate about arts and technology, some of my hobbies running, reading, and c
   <div align="right">Made with 💜 by <a href="https://github.com/Elbiabuglio">EA</a>.</div>
 
 </details>
+![snake gif](https://github.com/Elbiabuglio/Elbiabuglio/blob/output/github-contribution-grid-snake.svg)
