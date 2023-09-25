@@ -4,6 +4,13 @@
   <h1 align="center">
   Hello World, I'm Elbia Buglio👋  
 </h1>
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+  
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
+  
+</div>
 
 <p align="justify">I am a back-end developer from Uberlândia, MG, Brazil.  graduated in Financial Management and  a student of Systems Analysis and Development. My journey began with the famous 'Hello World', marking my career transition and my first contact with Java. Currently, I am pursuing Front-End development in JavaScript, guided by experienced professionals from mesttra. 
 <br>
