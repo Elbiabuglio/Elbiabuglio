@@ -10,7 +10,7 @@
   
 </div>
 
-<p align="justify">I am a back-end developera based in Uberlândia, MG, Brazil. Graduated in Financial Management and Systems Analysis and Development, I began my journey in technology with the classic "Hello, World!", which marked my career transition and my first contact with Java.
+<p align="justify">I am a back-end developer based in Uberlândia, MG, Brazil. Graduated in Financial Management and Systems Analysis and Development, I began my journey in technology with the classic "Hello, World!", which marked my career transition and my first contact with Java.
 <br>
 Passionate about technology and the arts, I enjoy balancing the digital world with creative activities. My hobbies include running, reading, and making crochet accessories. I am always looking for new challenges that combine innovation, continuous learning, and purpose.
 <!--
