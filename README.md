@@ -35,9 +35,6 @@ Passionate about technology and the arts, I enjoy balancing the digital world wi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elbiabuglio&hide_title=false&count_private=true&langs_count=4&hide=html,css&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=561760)
 
-<h3 align="left">Minhas Conquistas no GitHub</h3>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Elbiabuglio&theme=radical&column=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br>
