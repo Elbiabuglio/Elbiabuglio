@@ -10,9 +10,12 @@
   
 </div>
 
-<p align="justify">I am a back-end developer live in Uberlândia, MG, Brazil. Graduated in Financial Management and Systems Analysis and Development, I began my journey in technology with the classic "Hello, World!", which marked my career transition and my first contact with Java.
+<p align="justify">
+Sou desenvolvedor back-end, residente em Uberlândia/MG, Brasil. Possuo formação em Gestão Financeira e em Análise e Desenvolvimento de Sistemas. Minha trajetória na área de tecnologia começou com o tradicional "Olá, Mundo!", representando minha transição de carreira e o primeiro contato com Java.
 <br>
-Passionate about technology and the arts, I enjoy balancing the digital world with creative activities. My hobbies include running, reading, and making crochet accessories. I am always looking for new challenges that combine innovation, continuous learning, and purpose.
+Tenho grande interesse por tecnologia e artes, buscando sempre equilibrar o ambiente digital com atividades criativas. Entre meus hobbies estão a corrida, a leitura e a produção de acessórios em crochê. Estou continuamente em busca de desafios que promovam inovação, aprendizado constante e com propósito profissional.
+  
+</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://Elbiabuglio.github.io/)
 [![GitHub Page](https://img.shields.io/badge/Elbiabuglio.github.io-67136f?style=for-the-badge)](https://Elbiabuglio.github.io/)
@@ -26,14 +29,16 @@ Passionate about technology and the arts, I enjoy balancing the digital world wi
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elbiabuglio&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elbiabuglio&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+
 
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elbiabuglio&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/Elbiabuglio/github-readme-stats)-->
 
 
 <h3 align="left">Skills</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elbiabuglio&hide_title=false&count_private=true&langs_count=4&hide=html,css&bg_color=000000&title_color=FF00F6&text_color=FFFFFF&border_radius=3&border_color=561760)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elbiabuglio&hide_title=false&count_private=true&langs_count=4&hide=html,css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 
